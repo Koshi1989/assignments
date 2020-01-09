@@ -1,0 +1,6 @@
+I filtered the data of which purpose is student lone and the amount is larger than 500. 
+According to summary.txt, the "OFFICE" line has only one unique values, which means all of student lone (>$500) is disbursed in the GOVERNMENT CONTRIBUTIONS.
+The total amount of the student lone larger than $500 is $2,590,006.97, the mean is $767.182, and the median is $833.
+I got 3376 row count after the filtering. 
+
+-I found there're three types of data; Text, Number, Date

@@ -1,0 +1,167 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Boolean
+	Contains null values:  True (excluded from calculations)
+	Unique values:         1
+	Most common values:    None (3376x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         24 characters
+	Most common values:    GOVERNMENT CONTRIBUTIONS (3376x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (3376x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         24 characters
+	Most common values:    GOVERNMENT CONTRIBUTIONS (3376x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         18 characters
+	Most common values:    PERSONNEL BENEFITS (3376x)
+
+  6. "DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         16
+	Smallest value:        2017-01-12
+	Largest value:         2017-03-24
+	Most common values:    2017-03-16 (1176x)
+	                       2017-02-21 (1135x)
+	                       2017-01-18 (1044x)
+	                       2017-03-21 (5x)
+	                       2017-02-24 (2x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         2 characters
+	Most common values:    AP (3376x)
+
+  8. "RECORDID"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         3376
+	Smallest value:        897,386
+	Largest value:         912,421
+	Sum:                   3,056,998,394
+	Mean:                  905,509.003
+	Median:                905,544.5
+	StDev:                 4,620.82
+	Most common values:    897,386 (1x)
+	                       898,535 (1x)
+	                       898,538 (1x)
+	                       898,539 (1x)
+	                       898,540 (1x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         28
+	Longest value:         39 characters
+	Most common values:    DEPT OF EDUC VIA FEDLOAN SVC (1069x)
+	                       DEPT OF EDUCATION/GREAT LAKES - DOE (721x)
+	                       DEPT OF EDUCATION/NAVIENT (517x)
+	                       DEPT OF EDUCATION/NELNET (510x)
+	                       NAVIENT (134x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         8
+	Smallest value:        2016-08-01
+	Largest value:         2017-03-01
+	Most common values:    2017-03-01 (1177x)
+	                       2017-02-01 (1142x)
+	                       2017-01-01 (1048x)
+	                       2016-11-01 (3x)
+	                       2016-10-01 (2x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         8
+	Smallest value:        2016-08-31
+	Largest value:         2017-03-31
+	Most common values:    2017-03-31 (1177x)
+	                       2017-02-28 (1142x)
+	                       2017-01-31 (1048x)
+	                       2016-11-30 (3x)
+	                       2016-10-31 (2x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         13 characters
+	Most common values:    STUDENT LOANS (3376x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         223
+	Smallest value:        500.64
+	Largest value:         833
+	Sum:                   2,590,006.97
+	Mean:                  767.182
+	Median:                833
+	StDev:                 102.987
+	Most common values:    833 (2125x)
+	                       600 (144x)
+	                       800 (103x)
+	                       700 (61x)
+	                       617 (41x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         2
+	Smallest value:        2,016
+	Largest value:         2,017
+	Sum:                   6,809,383
+	Mean:                  2,016.997
+	Median:                2,017
+	StDev:                 0.052
+	Most common values:    2,017 (3367x)
+	                       2,016 (9x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         28
+	Longest value:         39 characters
+	Most common values:    DEPT OF EDUC VIA FEDLOAN SVC (1069x)
+	                       DEPT OF EDUCATION/GREAT LAKES - DOE (721x)
+	                       DEPT OF EDUCATION/NAVIENT (517x)
+	                       DEPT OF EDUCATION/NELNET (510x)
+	                       NAVIENT (134x)
+
+Row count: 3376
