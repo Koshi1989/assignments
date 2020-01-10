@@ -1,0 +1,4 @@
+1) I downloaded the "2017Q1-house-disburse-detail.csv" file by the "curl" command from the URL. 
+2) By piping, the downloaded csv was directly used as the input of the "filter.py" that was saved in advance. 
+3) The "filter.py" read the each row of csv. Then, it add the value in row to "writer" if the row has both the "water" in purpose and the higher amount than 1000. After reitelating this process through all the row, the valuable, writer, has the rows that filtered.  
+4) I redirected the writer to the "expensive_water.csv" that filtered rows where someone has made a purchase for water that is over $1000.
